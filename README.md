@@ -1,4 +1,4 @@
-## Generic Faucet for Substrate based chains
+## Generic Faucet for Tetcore based chains
 
 ## Server environment variables
 
